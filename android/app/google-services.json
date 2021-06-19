@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "651807662417",
+    "firebase_url": "https://newplantaoapp.firebaseio.com",
+    "project_id": "newplantaoapp",
+    "storage_bucket": "newplantaoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651807662417:android:6d4844e149f961c11d3370",
+        "android_client_info": {
+          "package_name": "br.com.amaral.plantao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651807662417-m319692prm60v1c2gp4k6fqa48o5cdht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWvJgx3yUzOoGZAuMtiyFq_H5PDOdDq7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651807662417-m319692prm60v1c2gp4k6fqa48o5cdht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
